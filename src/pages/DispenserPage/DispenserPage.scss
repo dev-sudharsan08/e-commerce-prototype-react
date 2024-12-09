@@ -1,0 +1,50 @@
+.jumbotron-style {
+    background-color: #00A19F;
+  }
+  
+  .card-image-background {
+    background-color: rgb(239, 239, 239);
+  }
+  
+  .close-btn {
+    margin-top: -13px;
+  }
+  
+  .offer-info {
+    background-color: #ebf2e7;
+    // justify-content: flex-start;
+    // text-align: left;
+  }
+  
+  .gallon-packs {
+    margin-bottom: -15px;
+    margin-top: -3px;
+  }
+  
+  .color-text-size {
+    font-size: small;
+    margin-left: 2px;
+  }
+  
+  .select {
+    cursor: pointer;
+  
+  }
+  
+  .select-color:focus {
+    outline: black;
+  }
+  
+  .text-clr {
+    accent-color: red;
+  }
+  
+  .gray-strike {
+    text-decoration: line-through;
+  }
+  
+  .outline{
+    outline: 2px solid red;
+    outline-offset: 2px;
+    padding: 2px;
+  }
